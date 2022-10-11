@@ -1,0 +1,75 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "str",
+						"type": "string"
+					}
+				],
+				"name": "myFun",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter2/Ex2_10.sol": "Ex2_10"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter2/Ex2_10.sol": {
+			"keccak256": "0x1977c0fb2d64cbf7858ddf1a639873a3407e8e9a5177bd5e4c27d13580cf4f9f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://1abaac159e577f2744185c42519a3dc255f519483911d89ecd30ffecd823e4e4",
+				"dweb:/ipfs/QmViExSqiMX2wkKC6EyvGthDAqG5Qt5BnqjiU7Yk4kqY99"
+			]
+		}
+	},
+	"version": 1
+}
